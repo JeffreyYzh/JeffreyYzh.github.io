@@ -15,7 +15,7 @@ My current research interests lie in Mutimodal understanding and generation, esp
 
 Education
 ------
-* Sept. 2021 - July 2025 (expected), Bachelor in School of Information and Software Engineering ([SISE](https://sise.uestc.edu.cn/)), University of Electronic Science and Technology of China (**UESTC**).
+* Sept. 2021 - July 2025 (expected), Bachelor in School of Information and Software Engineering ([SISE](https://sise.uestc.edu.cn/)), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)).
   * GPA: **93.8 / 100**, Rank: **2 / 83**
     
 Publication
