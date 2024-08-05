@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Zhenhao Yang - 杨镇豪"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,12 +12,12 @@ I am a third-year undergraduate at University of Electronic Science and Technolo
 My current research interests lie in Mutimodal understanding and generation, especially based on Vision-language Model (VLM).
 
 Education
-======
+------
 * Sept. 2021 - July 2025 (expected), Bachelor in School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (**UESTC**).
   * GPA: **93.8 / 100**, Rank: **2 / 83**
 
 Publication
-======
+------
 * [**Towards Open-vocabulary HOI Detection with Calibrated Vision-language Models and Locality-aware Queries**]()
   * **Zhenhao Yang**, Xin Liu, Deqiang Ouyang, Guiduo Duan, Dongyang Zhang, Tao He, Yuan-Fang Li
   * **ACMMM 2024**
@@ -26,7 +26,7 @@ Publication
   * **Arxiv 2024.05**
   
 Selected Honors and Awards
-======
+------
 * **National Scholarship** (top 2%), 2022
 * **National Scholarship** (top 2%), 2023
 * The National Grand Prize of the 8th [C4-Network Technology Challenge](http://net.c4best.cn/), 2023
