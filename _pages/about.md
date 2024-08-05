@@ -14,16 +14,16 @@ My current research interests lie in Mutimodal understanding and generation, esp
 Education
 ======
 * Sept. 2021 - July 2025 (expected), Bachelor in School of Information and Software Engineering (SISE), University of Electronic Science and Technology of China (**UESTC**).
-  * GPA:**93.8/100**, Rank:**2/83**
+  * GPA: **93.8 / 100**, Rank: **2 / 83**
 
 Publication
 ======
 * [**Towards Open-vocabulary HOI Detection with Calibrated Vision-language Models and Locality-aware Queries**]()
-  **Zhenhao Yang**, Xin Liu, Deqiang Ouyang, Guiduo Duan, Dongyang Zhang, Tao He, Yuan-Fang Li
-  **ACMMM 2024**
+  * **Zhenhao Yang**, Xin Liu, Deqiang Ouyang, Guiduo Duan, Dongyang Zhang, Tao He, Yuan-Fang Li
+  * **ACMMM 2024**
 * [**RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance**](https://arxiv.org/pdf/2405.14677)
-  Zhicheng Sun, **Zhenhao Yang**, Yang Jin, Haozhe Chi, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Yang Song, Kun Gai, Yadong MU
-  Arxiv 2024.05
+  * Zhicheng Sun, **Zhenhao Yang**, Yang Jin, Haozhe Chi, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Yang Song, Kun Gai, Yadong MU
+  * **Arxiv 2024.05**
   
 Selected Honors and Awards
 ======
