@@ -12,7 +12,7 @@ I am a third-year undergraduate at University of Electronic Science and Technolo
 My current research interests lie in Mutimodal understanding and generation, especially based on Vision-language Model (VLM).
 Education
 ------
-* Sept. 2021 - July 2025 (expected), Bachelor in [School of Information and Software Engineering](https://sise.uestc.edu.cn/) (SISE), University of Electronic Science and Technology of China (**UESTC**).
+* Sept. 2021 - July 2025 (expected), Bachelor in School of Information and Software Engineering ([SISE]((https://sise.uestc.edu.cn/)), University of Electronic Science and Technology of China (**UESTC**).
   * GPA: **93.8 / 100**, Rank: **2 / 83**
     
 Publication
