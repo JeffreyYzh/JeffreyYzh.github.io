@@ -19,10 +19,14 @@ Education
 Publication
 ======
 * **Towards Open-vocabulary HOI Detection with Calibrated Vision-language Models and Locality-aware Queries**
+
   **Zhenhao Yang**, Xin Liu, Deqiang Ouyang, Guiduo Duan, Dongyang Zhang, Tao He, Yuan-Fang Li
+
   **ACMMM 2024**
 * **RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance**
+
   Zhicheng Sun, **Zhenhao Yang**, Yang Jin, Haozhe Chi, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Yang Song, Kun Gai, Yadong MU
+
   Arxiv 2024.05
   
 Selected Honors and Awards
