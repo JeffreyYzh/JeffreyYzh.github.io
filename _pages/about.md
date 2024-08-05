@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Biography
+------
 I am a third-year undergraduate at University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)), majoring in Software Engineering. Now I am an AIGC algorithm intern at [Bytedance](https://www.bytedance.com/). Before that, I worked closely with [Tao He](https://ht014.github.io/) on Human-object Interaction (HOI) detection. 
 
 My current research interests lie in Mutimodal understanding and generation, especially based on Vision-language Model (VLM).
