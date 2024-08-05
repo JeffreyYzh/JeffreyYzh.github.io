@@ -21,13 +21,13 @@ repository               : "JeffreyYzh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_profile.png"
+  avatar           : "my_profile.jpg"
   name             : "Zhenhao Yang"
   pronouns         : # example: "she/her"  
   # bio              : "Undergraduate at UESTC"
   location         : "Chengdu, Sichuan"
   employer         : "UESTC"
-  uri              : # URL
+  # uri              : # URL
   email            : "zhenhao.yang11@gmail.com" 
 
   # Academic websites
