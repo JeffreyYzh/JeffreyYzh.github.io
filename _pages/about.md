@@ -15,7 +15,7 @@ My current research interests lie in Mutimodal understanding and generation, esp
 
 Education
 ------
-* Sept. 2021 - July 2025 (expected), Bachelor in School of Information and Software Engineering ([SISE]((https://sise.uestc.edu.cn/)), University of Electronic Science and Technology of China (**UESTC**).
+* Sept. 2021 - July 2025 (expected), Bachelor in School of Information and Software Engineering ([SISE](https://sise.uestc.edu.cn/)), University of Electronic Science and Technology of China (**UESTC**).
   * GPA: **93.8 / 100**, Rank: **2 / 83**
     
 Publication
@@ -31,5 +31,5 @@ Selected Honors and Awards
 ------
 * **National Scholarship** (top 2%), 2022
 * **National Scholarship** (top 2%), 2023
-* The National Grand Prize of the 8th [C4-Network Technology Challenge](http://net.c4best.cn/), 2023
+* The National Grand Prize of the 8th [C4-Network Technology Challenge](http://net.c4best.cn/) (top 1), 2023
 * Outstanding Undergraduate Award of ACM Chengdu Chapter (top 1%), 2023
